@@ -4,12 +4,6 @@ weight: 3
 
 # Teamfighting
 
-## Securing Assists
-
-{{< youtube qwBl_4BeAJ0 >}}
-
-Getting assists is just free gold, and is sometimes needed to stack runes like eyeball collector. Make It Rain (E) is a perfect skill for getting free assists, and sometimes you can even use it to execute enemies with Collector!
-
 ## 2v2 Teamfighting
 In a 2v2 fight, you should attempt to do the following:
 
